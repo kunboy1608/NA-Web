@@ -3,7 +3,6 @@ function abc(a) {
     switch (a) {
         case 0:
             myFrame.scr = "../manage/student.html";
-            print (aaa);
             break;
         case 1:
             myFrame.scr = "../manage/student.html";
